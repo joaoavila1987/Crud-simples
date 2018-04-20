@@ -1,0 +1,65 @@
+C:\Users\cirur\Desktop\joaoavila\MeuProjeto\MeuProjeto\bin\Debug\MeuProjeto.exe.config
+C:\Users\cirur\Desktop\joaoavila\MeuProjeto\MeuProjeto\bin\Debug\MeuProjeto.exe
+C:\Users\cirur\Desktop\joaoavila\MeuProjeto\MeuProjeto\bin\Debug\MeuProjeto.pdb
+C:\Users\cirur\Desktop\joaoavila\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.csprojResolveAssemblyReference.cache
+C:\Users\cirur\Desktop\joaoavila\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmPrincipal.resources
+C:\Users\cirur\Desktop\joaoavila\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.Properties.Resources.resources
+C:\Users\cirur\Desktop\joaoavila\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.csproj.GenerateResource.Cache
+C:\Users\cirur\Desktop\joaoavila\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.exe
+C:\Users\cirur\Desktop\joaoavila\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.pdb
+C:\Users\cirur\Desktop\joaoavila\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmCadastroSimples.resources
+C:\Users\cirur\Desktop\joaoavila\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmPedido.resources
+C:\Users\cirur\Desktop\joaoavila\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmListaPedidos.resources
+C:\Users\cirur\Desktop\joaoavila\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmNovoComposto.resources
+C:\Users\cirur\Desktop\MeuProjeto\MeuProjeto\bin\Debug\MeuProjeto.exe.config
+C:\Users\cirur\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.exe
+C:\Users\cirur\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.pdb
+C:\Users\cirur\Desktop\MeuProjeto\MeuProjeto\bin\Debug\MeuProjeto.exe
+C:\Users\cirur\Desktop\MeuProjeto\MeuProjeto\bin\Debug\MeuProjeto.pdb
+C:\Users\cirur\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.csprojResolveAssemblyReference.cache
+C:\Users\cirur\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmPrincipal.resources
+C:\Users\cirur\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmAtualizarProduto.resources
+C:\Users\cirur\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmCadastroSimples.resources
+C:\Users\cirur\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmListaPedidos.resources
+C:\Users\cirur\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmNovoComposto.resources
+C:\Users\cirur\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmPedido.resources
+C:\Users\cirur\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.Properties.Resources.resources
+C:\Users\cirur\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.csproj.GenerateResource.Cache
+C:\Users\João Ávila\Desktop\MeuProjeto\MeuProjeto\bin\Debug\MeuProjeto.exe.config
+C:\Users\João Ávila\Desktop\MeuProjeto\MeuProjeto\bin\Debug\MeuProjeto.exe
+C:\Users\João Ávila\Desktop\MeuProjeto\MeuProjeto\bin\Debug\MeuProjeto.pdb
+C:\Users\João Ávila\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.csprojResolveAssemblyReference.cache
+C:\Users\João Ávila\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmPrincipal.resources
+C:\Users\João Ávila\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmAtualizarProduto.resources
+C:\Users\João Ávila\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmCadastroSimples.resources
+C:\Users\João Ávila\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmListaPedidos.resources
+C:\Users\João Ávila\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmNovoComposto.resources
+C:\Users\João Ávila\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmPedido.resources
+C:\Users\João Ávila\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.Properties.Resources.resources
+C:\Users\João Ávila\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.csproj.GenerateResource.cache
+C:\Users\João Ávila\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\João Ávila\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.exe
+C:\Users\João Ávila\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.pdb
+C:\Users\João Ávila\Desktop\MeuProjeto\MeuProjeto\bin\Debug\Google.Protobuf.dll
+C:\Users\João Ávila\Desktop\MeuProjeto\MeuProjeto\bin\Debug\MySql.Data.dll
+C:\Users\João Ávila\Desktop\MeuProjeto\MeuProjeto\bin\Debug\Google.Protobuf.xml
+C:\Users\João Ávila\Desktop\MeuProjeto\MeuProjeto\bin\Debug\MySql.Data.xml
+C:\Users\João Ávila\Desktop\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.csproj.CopyComplete
+C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\bin\Debug\MeuProjeto.exe.config
+C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.exe
+C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.pdb
+C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\bin\Debug\MeuProjeto.exe
+C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\bin\Debug\MeuProjeto.pdb
+C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\bin\Debug\Google.Protobuf.dll
+C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\bin\Debug\MySql.Data.dll
+C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\bin\Debug\Google.Protobuf.xml
+C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\bin\Debug\MySql.Data.xml
+C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.csprojResolveAssemblyReference.cache
+C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmPrincipal.resources
+C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmAtualizarProduto.resources
+C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmCadastroSimples.resources
+C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmListaPedidos.resources
+C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmNovoComposto.resources
+C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmPedido.resources
+C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.Properties.Resources.resources
+C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.csproj.GenerateResource.Cache
