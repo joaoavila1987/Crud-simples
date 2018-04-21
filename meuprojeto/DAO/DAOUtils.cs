@@ -16,7 +16,7 @@ namespace MeuProjeto.DAO
 
         public static DbConnection GetConexao()
         {
-            string OpenConnection = @"server=localhost;user id=root;password=@avila#1334$;persistsecurityinfo=True;port=3306;database=superbase;SslMode=none;";
+            string OpenConnection = @"Server=.\SQLEXPRESS14;Database=supersilo;User Id=sa;Password=@avila#1334$joaoavila;";
             DbConnection conexao = new MySqlConnection(OpenConnection);
             conexao.Open();
             return conexao;

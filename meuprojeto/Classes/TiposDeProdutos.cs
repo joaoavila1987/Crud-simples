@@ -10,8 +10,8 @@ namespace MeuProjeto.Classes
     {
         public int IDProduto { get; set; }
         public string NomeProduto { get; set; }
-        public double CustoProduto { get; set; }
-        public double VendaProduto { get; set; }
+        public decimal CustoProduto { get; set; }
+        public decimal VendaProduto { get; set; }
         public int QuantidadeProduto { get; set; }
 
         public int IDPedido { get; set; }

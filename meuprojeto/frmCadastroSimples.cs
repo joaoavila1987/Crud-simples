@@ -31,7 +31,18 @@ namespace MeuProjeto
 
         private void btnSalvar_Click_1(object sender, EventArgs e)
         {
+            Classes.Go acao = new Classes.Go();
 
+            TiposDeProdutos produto = new TiposDeProdutos()
+            {
+
+                NomeProduto = txtNome.Text,
+                CustoProduto = Convert.ToDecimal(txtCusto.Text),
+                VendaProduto = Convert.ToDecimal(txtVenda.Text)
+
+            };
+            acao.InserirNovoProdutoSimples(produto);
+            this.Close();
         }
     }
 }

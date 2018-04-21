@@ -63,3 +63,25 @@ C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\obj\Debug\MeuProje
 C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.frmPedido.resources
 C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.Properties.Resources.resources
 C:\Users\cirur\Desktop\ProjetoT\oficial\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.csproj.GenerateResource.Cache
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\bin\Debug\MeuProjeto.exe.config
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\bin\Debug\MeuProjeto.exe
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\bin\Debug\MeuProjeto.pdb
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\bin\Debug\Google.Protobuf.dll
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\bin\Debug\MySql.Data.dll
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\bin\Debug\Google.Protobuf.xml
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\bin\Debug\MySql.Data.xml
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\obj\Debug\MeuProjeto.csprojResolveAssemblyReference.cache
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\obj\Debug\MeuProjeto.frmPrincipal.resources
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\obj\Debug\MeuProjeto.frmAtualizarProduto.resources
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\obj\Debug\MeuProjeto.frmCadastroSimples.resources
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\obj\Debug\MeuProjeto.frmListaPedidos.resources
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\obj\Debug\MeuProjeto.frmNovoComposto.resources
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\obj\Debug\MeuProjeto.frmPedido.resources
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\obj\Debug\MeuProjeto.Properties.Resources.resources
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\obj\Debug\MeuProjeto.csproj.GenerateResource.cache
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\obj\Debug\MeuProjeto.exe
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\obj\Debug\MeuProjeto.pdb
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\bin\Debug\Devart.Data.dll
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\bin\Debug\Devart.Data.MySql.dll
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\obj\Debug\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\obj\Debug\MeuProjeto.csproj.CopyComplete
