@@ -24,7 +24,7 @@ namespace MeuProjeto.Classes
             DbConnection conexao = DAO.DAOUtils.GetConexao();
             DbCommand comando = DAO.DAOUtils.GetComando(conexao);
             comando.CommandType = CommandType.Text;
-            comando.CommandText = "SELECT NomeProduto,CustoProduto FROM tb_produtos";
+            comando.CommandText = "SELECT IDProduto,NomeProduto,CustoProduto FROM tabela_cadastro_produto";
             DbDataReader reader = DAO.DAOUtils.GetDataReader(comando);
             DataTable datatable = new DataTable();
             datatable.Load(reader);
@@ -32,19 +32,22 @@ namespace MeuProjeto.Classes
 
         }
 
-        public DataTable CarregarTelaPedido()
+        public DataTable CarregarProdutosPedidos()
         {
-            //carregamento das informações dos itens que estão sendo solicitatas
-
             DbConnection conexao = DAO.DAOUtils.GetConexao();
             DbCommand comando = DAO.DAOUtils.GetComando(conexao);
             comando.CommandType = CommandType.Text;
-            comando.CommandText = "SELECT NomeProduto,CustoProduto tb_geral_produtos INNER JOIN tb_produtos ON tb_produtos.IDProduto = tb_geral_produtos.IDGeral ";
+            comando.CommandText = @"SELECT tabela_cadastro_produto.IDProduto,tabela_cadastro_produto.NomeProduto,tabela_cadastro_produto.QuantidadeProduto,tabela_cadastro_produto.CustoProduto
+                                  FROM tabela_cadastro_produto
+                                  INNER JOIN tabela_pedidos
+                                  ON tabela_pedidos.IDProdutoPedido = tabela_cadastro_produto.IDProduto";
             DbDataReader reader = DAO.DAOUtils.GetDataReader(comando);
             DataTable datatable = new DataTable();
             datatable.Load(reader);
-            return datatable; 
+            return datatable;
         }
+
+     
 
 
     }

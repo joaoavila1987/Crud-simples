@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data;
 using System.Data.Common;
-using MySql.Data.MySqlClient;
+using System.Data.SqlClient;
 
 
 
@@ -16,8 +16,8 @@ namespace MeuProjeto.DAO
 
         public static DbConnection GetConexao()
         {
-            string OpenConnection = @"Server=.\SQLEXPRESS14;Database=supersilo;User Id=sa;Password=@avila#1334$joaoavila;";
-            DbConnection conexao = new MySqlConnection(OpenConnection);
+            string OpenConnection = @"Server=.\SQLEXPRESS14;Database=PremierSilo;User Id=sa;Password=@avila#1334$joaoavila;";
+            DbConnection conexao = new SqlConnection(OpenConnection);
             conexao.Open();
             return conexao;
         }
