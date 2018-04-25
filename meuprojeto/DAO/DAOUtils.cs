@@ -16,7 +16,7 @@ namespace MeuProjeto.DAO
 
         public static DbConnection GetConexao()
         {
-            string OpenConnection = @"Server=.\SQLEXPRESS14;Database=PremierSilo;User Id=sa;Password=@avila#1334$joaoavila;";
+            string OpenConnection = @"Server=.\SQLEXPRESS14;Database=PremierSilo2;User Id=sa;Password=@avila#1334$joaoavila;";
             DbConnection conexao = new SqlConnection(OpenConnection);
             conexao.Open();
             return conexao;

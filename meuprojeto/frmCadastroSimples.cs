@@ -38,7 +38,8 @@ namespace MeuProjeto
 
                 NomeProduto = txtNome.Text,
                 CustoProduto = Convert.ToDecimal(txtCusto.Text),
-                VendaProduto = Convert.ToDecimal(txtVenda.Text)
+                VendaProduto = Convert.ToDecimal(txtVenda.Text),
+                Tipo = "s"
 
             };
             acao.InserirNovoProdutoSimples(produto);

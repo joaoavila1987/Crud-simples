@@ -54,7 +54,7 @@
             this.btnNovoSimples.Name = "btnNovoSimples";
             this.btnNovoSimples.Size = new System.Drawing.Size(94, 45);
             this.btnNovoSimples.TabIndex = 1;
-            this.btnNovoSimples.Text = "Novo Produto Simples";
+            this.btnNovoSimples.Text = "Novo Produto";
             this.btnNovoSimples.UseVisualStyleBackColor = false;
             this.btnNovoSimples.Click += new System.EventHandler(this.btnNovoSimples_Click);
             // 
@@ -66,7 +66,7 @@
             this.btnNovoComposto.Name = "btnNovoComposto";
             this.btnNovoComposto.Size = new System.Drawing.Size(94, 44);
             this.btnNovoComposto.TabIndex = 2;
-            this.btnNovoComposto.Text = "Novo Produto Composto";
+            this.btnNovoComposto.Text = "Formar Cesta de Produtos";
             this.btnNovoComposto.UseVisualStyleBackColor = false;
             this.btnNovoComposto.Click += new System.EventHandler(this.btnNovoComposto_Click);
             // 
@@ -132,7 +132,7 @@
             this.cadastroSimplesToolStripMenuItem,
             this.cadastroCompostoToolStripMenuItem});
             this.novoToolStripMenuItem.Name = "novoToolStripMenuItem";
-            this.novoToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.novoToolStripMenuItem.Size = new System.Drawing.Size(120, 22);
             this.novoToolStripMenuItem.Text = "Novo";
             // 
             // cadastroSimplesToolStripMenuItem
@@ -152,7 +152,7 @@
             // atualizarToolStripMenuItem
             // 
             this.atualizarToolStripMenuItem.Name = "atualizarToolStripMenuItem";
-            this.atualizarToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.atualizarToolStripMenuItem.Size = new System.Drawing.Size(120, 22);
             this.atualizarToolStripMenuItem.Text = "Atualizar";
             this.atualizarToolStripMenuItem.Click += new System.EventHandler(this.atualizarToolStripMenuItem_Click);
             // 

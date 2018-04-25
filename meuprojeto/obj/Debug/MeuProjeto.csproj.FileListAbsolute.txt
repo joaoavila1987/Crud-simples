@@ -85,3 +85,5 @@ C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\bin\Debug\Devart.
 C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\bin\Debug\Devart.Data.MySql.dll
 C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\obj\Debug\MeuProjeto.csproj.CoreCompileInputs.cache
 C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\obj\Debug\MeuProjeto.csproj.CopyComplete
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\obj\Debug\MeuProjeto.frmIncluirProduto.resources
+C:\Users\João Ávila\Desktop\Gerenciador de Saidas\MeuProjeto\obj\Debug\MeuProjeto.frmformacaoComposto.resources

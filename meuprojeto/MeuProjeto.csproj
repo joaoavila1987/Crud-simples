@@ -91,6 +91,18 @@
     <Compile Include="frmCadastroSimples.Designer.cs">
       <DependentUpon>frmCadastroSimples.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmformacaoComposto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmformacaoComposto.Designer.cs">
+      <DependentUpon>frmformacaoComposto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIncluirProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIncluirProduto.Designer.cs">
+      <DependentUpon>frmIncluirProduto.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmListaPedidos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -119,6 +131,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmCadastroSimples.resx">
       <DependentUpon>frmCadastroSimples.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmformacaoComposto.resx">
+      <DependentUpon>frmformacaoComposto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIncluirProduto.resx">
+      <DependentUpon>frmIncluirProduto.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmListaPedidos.resx">
       <DependentUpon>frmListaPedidos.cs</DependentUpon>
